@@ -1,6 +1,10 @@
 ---
 output: html_document
 ---
+h1, h2, h3 {
+  text-align: center;
+}
+
 ## About me {.tabset}
 ![alt text here](IMG_0682.JPG)
 ![alt text here](frec.JPG)
