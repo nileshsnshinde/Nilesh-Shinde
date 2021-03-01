@@ -1,5 +1,5 @@
 ## About me {.tabset}
-# Nilesh N. Shinde
+### Nilesh N. Shinde
 ## PhD Stduent, Forest Resources and Environmental Conservation, Virginia Tech (VA)
 
 The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries, specifically in India andBrazil. 
@@ -39,8 +39,8 @@ Advisor:  Dr.  Stella Schons
 * Machine learning methods in remote sensing and statistical analysis. 
 
 ## My research work {.tabset}
-## Selected Publications
-* First author  
+### Selected Publications
+As a First author  
 
 * Can an environmental policy intervention contribute to the reduction of land conflict?  Evidence from the Rural Environmental Registry (SiCAR) in the Brazilian Amazon, Manuscript in progress. (with Schons, S.Z.) 
 
@@ -50,7 +50,7 @@ Advisor:  Dr.  Stella Schons
 
 * Tree Outside Forests and farmer household management of climate change risks in Andhra Pradesh, India.   Manuscript to be submitted to *Environment and Development Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.)
 
-* Co-author
+As a Co-author
 
 * Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India.  Manuscript submitted to *Forest Policy and Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.) 
 
