@@ -1,5 +1,10 @@
+---
+output: html_document
+---
 ## About me {.tabset}
 ![alt text here](IMG_0682.JPG)
+![alt text here](frec.JPG)
+![alt text here](ictas-horizontal.png)
 ### Nilesh N. Shinde
 ## PhD Stduent, Forest Resources and Environmental Conservation, Virginia Tech (VA)
 
