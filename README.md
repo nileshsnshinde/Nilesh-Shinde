@@ -3,7 +3,7 @@
 ![alt text here](IMG_0682.JPG)
 ![alt text here](frec.JPG)
 # Nilesh N. Shinde
-## PhD Stduent, Forest Resources and Environmental Conservation, Virginia Tech (VA)
+## PhD Student, Forest Resources and Environmental Conservation, Virginia Tech (VA)
 
 The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries, specifically in India andBrazil. 
 
