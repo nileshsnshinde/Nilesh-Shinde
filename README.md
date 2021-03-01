@@ -1,6 +1,6 @@
 
 ## About me 
-![alt text here](IMG_0682.JPG|width=100)
+![alt text here](IMG_0682.JPG =250x250)
 
 # Nilesh N. Shinde
 ## PhD Student, Forest Resources and Environmental Conservation, Virginia Tech (VA)
