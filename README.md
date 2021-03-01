@@ -1,10 +1,14 @@
 
-## About me 
+
 ![alt text here](IMG_0682.JPG)
 
 # Nilesh N. Shinde
-## PhD Student, Forest Resources and Environmental Conservation, Virginia Tech (VA)
+## PhD Student, Natural Resources Economics and Environmental Informatics
+* Forest Resources and Environmental Conservation, Virginia Tech (VA)
 ![alt text here](frec.JPG)
+
+## About me 
+
 The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries, specifically in India andBrazil. 
 
 In Brazil, I am investigating the relationship between conflicts over land ownershipand deforestation in the face of new environmental legislation in the Amazon region. Thisresearch involves data collection using Web Scraper with Python for land conflicts, remotesensing using Google earth engine and various secondary data sources, and the data analysisis performed using spatial econometric techniques. Chapter (1) employs a Difference-in-Difference (DiD) econometric model with multiple time periods along-with a zero-inflatednegative binomial regression to account for the high number of municipalities with a valueof “zero” for the number of conflicts. We aim to test the CAR as a policy contributes to thereduction of land conflict and deforestation at municipality level. Followed by Chapter (2)which employs combined econometric and machine learning methods in order to estimatethe heterogeneous treatment effects from land use legislation changes and political shiftsacross different groups of landowners(or conditional average treatment effect–CATE).
@@ -21,6 +25,7 @@ Advisor:  Dr.  Stella Schons
 * Courses: Natural Resources Economics (Fall 2018) and Water Policy and Economics (Fall 2019).
 
 ## Education
+
 * Ph.D. Virginia Tech, Blacksburg, VA	June 2018—June 2022
 * Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
 * Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship and the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
@@ -35,8 +40,8 @@ Advisor:  Dr.  Stella Schons
 * Python, R programming, QGIS, Google Earth Engine (JavaScript), Big Query (SQL), STATA and LaTeX. 
 
 ## Statistical Skills 
-*	Data analysis and Econometric Skills 
 
+*	Data analysis and Econometric Skills 
 * Econometric modeling, Causal modeling with Cross-sectional & Panel data, Time-series modeling, Spatial Econometrics and Big-data Econometrics.
 * Basic and advanced linear models, multivariate modeling, and sampling methods. 
 * Machine learning methods in remote sensing and statistical analysis. 
