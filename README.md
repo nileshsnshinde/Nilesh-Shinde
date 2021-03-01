@@ -1,3 +1,4 @@
+## About me {.tabset}
 # Nilesh N. Shinde
 ## PhD Stduent, Forest Resources and Environmental Conservation, Virginia Tech (VA)
 
@@ -37,6 +38,7 @@ Advisor:  Dr.  Stella Schons
 * Basic and advanced linear models, multivariate modeling, and sampling methods. 
 * Machine learning methods in remote sensing and statistical analysis. 
 
+## My research work {.tabset}
 ## Selected Publications
 * First author  
 
