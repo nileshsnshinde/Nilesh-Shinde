@@ -18,8 +18,8 @@ Advisor:  Dr.  Stella Schons
 
 ## Education
 * Ph.D. Virginia Tech, Blacksburg, VA	June 2018—June 2022
-* •	Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
-* •	Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship and the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
+* Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
+* Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship and the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
 * M.Sc. University of Campinas, São Paulo, Brazil	January 2016—June 2017 
 * *Development Economics* 
 * Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil. 
@@ -39,16 +39,25 @@ Advisor:  Dr.  Stella Schons
 
 ## Selected Publications
 * First author  
+
 * Can an environmental policy intervention contribute to the reduction of land conflict?  Evidence from the Rural Environmental Registry (SiCAR) in the Brazilian Amazon, Manuscript in progress. (with Schons, S.Z.) 
+
 * Assessing the impact of neighboring forest fire on planted forest tree mortality:   a study on plantation tree mortality in Latin America, Manuscript in progress. (with Schons, S.Z.) 
+
 * Combining machine learning and econometric method to understand household level compliance for forest conservation policy in Brazil, Manuscript in progress. (with Schons, S.Z.) 
+
 * Tree Outside Forests and farmer household management of climate change risks in Andhra Pradesh, India.   Manuscript to be submitted to *Environment and Development Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.)
 
 * Co-author
+
 * Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India.  Manuscript submitted to *Forest Policy and Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.) 
+
 * Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India. Manuscript accepted for publication in the book *Environment and Development Economics: Essays in honour of Rabindra N. Bhattacharya* by Oxford University Press. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V. (submitted))
+
 * Tree Outside Forests as a development and climate change mitigation strategy for the State of Andhra Pradesh, India. Manuscript to be submitted to *PNAS*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Thomas, V.; Wynne, R.; Kohlin, G.; Gundimeda, H.; Williams, P.; More, S.) 
+
 * Is It Time to Register? A Survival Analysis of Smallholders’ Decision to Enroll in the Rural Environmental Registry program in the Brazilian. Manuscript in progress for submission to *Land Use Science*. (with Schons, S.Z., Sills, E.O, Menezes, D. P.; Lima, E.; Merry, F.)
+
 * Impact of Water Conservation Policy on Crop Burning Choice: Evidence from India (with Sakshi Upadhyay)
 
 
