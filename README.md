@@ -4,7 +4,7 @@
 
 # Nilesh N. Shinde
 ## PhD Student, Natural Resources Economics and Environmental Informatics
-* Forest Resources and Environmental Conservation, Virginia Tech (VA)
+
 ![alt text here](frec.JPG)
 
 ## About me 
