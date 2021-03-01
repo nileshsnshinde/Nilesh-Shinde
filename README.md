@@ -1,5 +1,5 @@
 
-## About me {.tabset}
+## About me 
 ![alt text here](IMG_0682.JPG)
 ![alt text here](frec.JPG)
 # Nilesh N. Shinde
@@ -41,7 +41,7 @@ Advisor:  Dr.  Stella Schons
 * Basic and advanced linear models, multivariate modeling, and sampling methods. 
 * Machine learning methods in remote sensing and statistical analysis. 
 
-## My research work {.tabset}
+## My research work 
 ### Selected Publications
 As a First author  
 
