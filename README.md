@@ -14,23 +14,23 @@ In Brazil, I am investigating the relationship between conflicts over land owner
 In India, I am studying the household’s land use choices in village economy. The Chapter (3) employs primary survey data analysis using discrete choice modeling between tree and non-tree cultivation. Further, our objective is to explore the role of tree planting behavior onclimate risk mitigation. The research employs structural equation modeling to estimate theimpact of climate risk belief on land use choice, mainly tree plantation.
 
 ## Work Experience
-* **Graduate Research Assistant	August 2018 – present**
+* **Graduate Research Assistant	(August 2018 – present)**
 * Department of Forest Resources and Environmental Conservation, Virginia Tech	
 * Project title: *Spatiotemporal Drivers of Fine-Scale Forest Plantation Establishment in Village-Based Economies of Andhra Pradesh*. Funding organization:  South/Southeast Asia Research Initiative (SARI) at NASA’s LCLUC programs. 
 Advisor:  Dr.  Stella Schons
-* **Graduate Teaching Assistant	August 2018 – present**
+* **Graduate Teaching Assistant	(August 2018 – present)**
 * Department of Forest Resources and Environmental Conservation, Virginia Tech 
 * Courses: Natural Resources Economics (Fall 2018) and Water Policy and Economics (Fall 2019).
 
 ## Education
 
-* **Ph.D. Virginia Tech, Blacksburg, VA	June 2018—June 2022**
+* **Ph.D. Virginia Tech, Blacksburg, VA (August 2018 – present)**
 * Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
-* Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship and the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
-* **M.Sc. University of Campinas, São Paulo, Brazil	January 2016—June 2017** 
+* Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship, the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
+* **M.Sc. University of Campinas, São Paulo, Brazil** 
 * *Development Economics* 
 * Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil. 
-* **B.E. Savitribai Phule Pune University, Pune, India.	June 2006—June 2010**
+* **B.E. Savitribai Phule Pune University, Pune, India**
 * *Mechanical Engineering*	
 
 ## Techniques & Software
@@ -65,6 +65,16 @@ _As a Co-author_
 * Is It Time to Register? A Survival Analysis of Smallholders’ Decision to Enroll in the Rural Environmental Registry program in the Brazilian. Manuscript in progress for submission to *Land Use Science*. (with Schons, S.Z., Sills, E.O, Menezes, D. P.; Lima, E.; Merry, F.)
 
 * Impact of Water Conservation Policy on Crop Burning Choice: Evidence from India (with Sakshi Upadhyay)
+
+## Contact
+	
+ Virginia Tech 
+	Department of Forest Resources and Environmental Conservation (FREC)
+	315B Cheatham Hall, 310 West Campus Drive
+	Blacksburg, VA 24061
+	Phone: 540-214-0821
+	Email: nilesh@vt.edu
+  Twitter: @nilesh_nshinde
 
 
 
