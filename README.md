@@ -25,14 +25,17 @@ Advisor:  Dr.  Stella Schons
 ## Education
 <ul>
 <li> **Ph.D. Virginia Tech, Blacksburg, VA (August 2018 – present)**</li>
+	<ul>
 <li> Forestry with focus on *Natural Resources Economics and Environmental Informatics* </li>
 <li> Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship, the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
 <ul>
 <li> **M.Sc. University of Campinas, São Paulo, Brazil** </li>
+	<ul>
 <li> *Development Economics*</li> 
 <li> Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil.
 <ul>
 <li> **B.E. Savitribai Phule Pune University, Pune, India**</li>
+	<ul>
 <li> *Mechanical Engineering*
 <ul>
 	
