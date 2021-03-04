@@ -1,5 +1,3 @@
-
-
 ![alt text here](IMG_0682.JPG)
 
 # Nilesh N. Shinde
@@ -16,39 +14,37 @@ In Brazil, I am investigating the relationship between conflicts over land owner
 In India, I am studying the household’s land use choices in village economy. The Chapter (3) employs primary survey data analysis using discrete choice modeling between tree and non-tree cultivation. Further, our objective is to explore the role of tree planting behavior onclimate risk mitigation. The research employs structural equation modeling to estimate theimpact of climate risk belief on land use choice, mainly tree plantation.
 
 ## Work Experience
-* Graduate Research Assistant	August 2018 – present
+*** Graduate Research Assistant	August 2018 – present**
 * Department of Forest Resources and Environmental Conservation, Virginia Tech	
 * Project title: *Spatiotemporal Drivers of Fine-Scale Forest Plantation Establishment in Village-Based Economies of Andhra Pradesh*. Funding organization:  South/Southeast Asia Research Initiative (SARI) at NASA’s LCLUC programs. 
 Advisor:  Dr.  Stella Schons
-* Graduate Teaching Assistant	August 2018 – present
+* **Graduate Teaching Assistant	August 2018 – present**
 * Department of Forest Resources and Environmental Conservation, Virginia Tech 
 * Courses: Natural Resources Economics (Fall 2018) and Water Policy and Economics (Fall 2019).
 
 ## Education
 
-* Ph.D. Virginia Tech, Blacksburg, VA	June 2018—June 2022
+* **Ph.D. Virginia Tech, Blacksburg, VA	June 2018—June 2022**
 * Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
 * Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship and the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
-* M.Sc. University of Campinas, São Paulo, Brazil	January 2016—June 2017 
+* **M.Sc. University of Campinas, São Paulo, Brazil	January 2016—June 2017 **
 * *Development Economics* 
 * Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil. 
-* B.E. Savitribai Phule Pune University, Pune, India.	June 2006—June 2010
+* **B.E. Savitribai Phule Pune University, Pune, India.	June 2006—June 2010**
 * *Mechanical Engineering*	
 
 ## Techniques & Software
- 
 * Python, R programming, QGIS, Google Earth Engine (JavaScript), Big Query (SQL), STATA and LaTeX. 
 
-## Statistical Skills 
-
-*	Data analysis and Econometric Skills 
+## Analytical Skills  
 * Econometric modeling, Causal modeling with Cross-sectional & Panel data, Time-series modeling, Spatial Econometrics and Big-data Econometrics.
 * Basic and advanced linear models, multivariate modeling, and sampling methods. 
 * Machine learning methods in remote sensing and statistical analysis. 
+* GIS.
 
 ## My research work 
 ### Selected Publications
-As a First author  
+_As a First author _ 
 
 * Can an environmental policy intervention contribute to the reduction of land conflict?  Evidence from the Rural Environmental Registry (SiCAR) in the Brazilian Amazon, Manuscript in progress. (with Schons, S.Z.) 
 
@@ -58,7 +54,7 @@ As a First author
 
 * Tree Outside Forests and farmer household management of climate change risks in Andhra Pradesh, India.   Manuscript to be submitted to *Environment and Development Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.)
 
-As a Co-author
+_As a Co-author_
 
 * Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India.  Manuscript submitted to *Forest Policy and Economics*. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.) 
 
