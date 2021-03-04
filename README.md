@@ -14,7 +14,7 @@ In Brazil, I am investigating the relationship between conflicts over land owner
 In India, I am studying the household’s land use choices in village economy. The Chapter (3) employs primary survey data analysis using discrete choice modeling between tree and non-tree cultivation. Further, our objective is to explore the role of tree planting behavior onclimate risk mitigation. The research employs structural equation modeling to estimate theimpact of climate risk belief on land use choice, mainly tree plantation.
 
 ## Work Experience
-*** Graduate Research Assistant	August 2018 – present**
+* **Graduate Research Assistant	August 2018 – present**
 * Department of Forest Resources and Environmental Conservation, Virginia Tech	
 * Project title: *Spatiotemporal Drivers of Fine-Scale Forest Plantation Establishment in Village-Based Economies of Andhra Pradesh*. Funding organization:  South/Southeast Asia Research Initiative (SARI) at NASA’s LCLUC programs. 
 Advisor:  Dr.  Stella Schons
