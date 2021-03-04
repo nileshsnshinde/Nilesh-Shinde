@@ -1,56 +1,66 @@
-# Make your website with R Markdown in minutes
+About me
+I am a Ph.D. student at FREC, Virginia Tech (VA). I am currently working towards a dissertation titled The natural resource economics and environmental informatics interface in understanding land use and land cover change decisions and policies in India and Brazil. The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries.
 
-This is a template (and tutorial) for creating your website with R Markdown in minutes.
+In Brazil, I am investigating the relationship between conflicts over land ownershipand deforestation in the face of new environmental legislation in the Amazon region. Thisresearch involves data collection using Web Scraper with Python for land conflicts, remotesensing using Google earth engine and various secondary data sources, and the data analysisis performed using spatial econometric techniques. Chapter (1) employs a Difference-in-Difference (DiD) econometric model with multiple time periods along-with a zero-inflatednegative binomial regression to account for the high number of municipalities with a valueof “zero” for the number of conflicts. We aim to test the CAR as a policy contributes to thereduction of land conflict and deforestation at municipality level. Followed by Chapter (2)which employs combined econometric and machine learning methods in order to estimatethe heterogeneous treatment effects from land use legislation changes and political shiftsacross different groups of landowners(or conditional average treatment effect–CATE).
 
-The official document from RStudio can be found [here](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
+In India, I am studying the household’s land use choices in village economy. The Chapter (3) employs primary survey data analysis using discrete choice modeling between tree and non-tree cultivation. Further, our objective is to explore the role of tree planting behavior onclimate risk mitigation. The research employs structural equation modeling to estimate theimpact of climate risk belief on land use choice, mainly tree plantation.
 
-## Procedure
+Work Experience
+Graduate Research Assistant (August 2018 – present)
+Department of Forest Resources and Environmental Conservation, Virginia Tech
+Project title: Spatiotemporal Drivers of Fine-Scale Forest Plantation Establishment in Village-Based Economies of Andhra Pradesh. Funding organization: South/Southeast Asia Research Initiative (SARI) at NASA’s LCLUC programs. Advisor: Dr. Stella Schons
+Graduate Teaching Assistant (August 2018 – present)
+Department of Forest Resources and Environmental Conservation, Virginia Tech
+Courses: Natural Resources Economics (Fall 2018) and Water Policy and Economics (Fall 2019).
+Education
+Ph.D. Virginia Tech, Blacksburg, VA (August 2018 – present)
 
-### Prerequisites
+Forestry with focus on Natural Resources Economics and Environmental Informatics Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship, the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
 
-- Make sure that you have the latest versions of R, RStudio and package rmarkdown. I had problems of encoding because of that. 
+M.Sc. University of Campinas, São Paulo, Brazil
 
-- Make sure that you have enabled Git in RStudio. More information can be found [there](https://privefl.github.io/advr38book/good-practices.html#git).
+Development Economics Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil.
 
-- You need a GitHub account.
+B.E. Savitribai Phule Pune University, Pune, India
 
-### Make the first version of your website
+Mechanical Engineering
 
-- Fork this repo (top-right) and rename it to be 'YOURGITHUB.github.io' (in Settings of your brand new repo).
+Techniques & Software
+Python, R programming, QGIS, Google Earth Engine (JavaScript), Big Query (SQL), STATA and LaTeX.
+Analytical Skills
+Econometric modeling, Causal modeling with Cross-sectional & Panel data, Time-series modeling, Spatial Econometrics and Big-data Econometrics.
+Basic and advanced linear models, multivariate modeling, and sampling methods.
+Machine learning methods in remote sensing and statistical analysis.
+GIS.
+My research work
+Selected Publications
+As a First author
 
-- Get the link from cloning the repo. Use the green button "Clone" and make sure you use SSH, not HTTPS. Then, go to RStudio, create a New Project > Version Control > Git and copy this link. You have cloned your new repo as an R project.
+Can an environmental policy intervention contribute to the reduction of land conflict? Evidence from the Rural Environmental Registry (SiCAR) in the Brazilian Amazon, Manuscript in progress. (with Schons, S.Z.)
 
-- Build the website by running `rmarkdown::render_site(encoding = "UTF-8")` or just `Ctrl/Cmd + Shift + B`.
+Assessing the impact of neighboring forest fire on planted forest tree mortality: a study on plantation tree mortality in Latin America, Manuscript in progress. (with Schons, S.Z.)
 
-- Commit and push everything from RStudio.
+Combining machine learning and econometric method to understand household level compliance for forest conservation policy in Brazil, Manuscript in progress. (with Schons, S.Z.)
 
-- Go see your new website at https://YOURGITHUB.github.io/index.html.
+Tree Outside Forests and farmer household management of climate change risks in Andhra Pradesh, India. Manuscript to be submitted to Environment and Development Economics. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.)
 
-### Change the content of your website
+As a Co-author
 
-- Modify `_site.yml`, `index.Rmd`, `about.Rmd`, `cv.Rmd` and `CV.pdf` with your own content. 
-- Build your website again. At any moment, you can preview your website locally, by rendering your site and viewing any of your local html file in your Web Browser. 
+Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India. Manuscript submitted to Forest Policy and Economics. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V.)
 
-- Commit and push everything from RStudio.
+Incentives to Establish Tree Cover on Agricultural Land in Andhra Pradesh India. Manuscript accepted for publication in the book Environment and Development Economics: Essays in honour of Rabindra N. Bhattacharya by Oxford University Press. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Gundimeda, H; Wynne, R.; Thomas; V. (submitted))
 
-- Go see your new website with your own content at https://YOURGITHUB.github.io/.
+Tree Outside Forests as a development and climate change mitigation strategy for the State of Andhra Pradesh, India. Manuscript to be submitted to PNAS. (with Schons, S.Z.; Amacher, G.; Cobourn, K.; Thomas, V.; Wynne, R.; Kohlin, G.; Gundimeda, H.; Williams, P.; More, S.)
 
-### The blog part
+Is It Time to Register? A Survival Analysis of Smallholders’ Decision to Enroll in the Rural Environmental Registry program in the Brazilian. Manuscript in progress for submission to Land Use Science. (with Schons, S.Z., Sills, E.O, Menezes, D. P.; Lima, E.; Merry, F.)
 
-For now, the 'Blog' link is giving a 404 page. 
+Impact of Water Conservation Policy on Crop Burning Choice: Evidence from India (with Sakshi Upadhyay)
 
-If you want to add a static blog to your webpage, go [there](https://github.com/privefl/jekyll-now-r-template).
-
-## Two examples
-
-You can see for example 
-- [my own website](https://privefl.github.io/),
-
-- [the website of the R user group in Grenoble](https://r-in-grenoble.github.io/).
-
-## Conclusion
-
-As a reminder, all credit goes to the geniuses at RStudio (thanks also to [GitHub pages](https://pages.github.com/)). I just made some minor modifications and made a tuto about how to use all this together.
-
-If anything is false or not clear enough, feel free to contact me or open an issue.
-If it is an issue only related with R Markdown, you'll find a better answer posting [there](https://github.com/rstudio/rmarkdown).
+Contact
+Virginia Tech
+Department of Forest Resources and Environmental Conservation (FREC)
+315B Cheatham Hall, 310 West Campus Drive
+Blacksburg, VA 24061
+Phone: 540-214-0821
+Email: nilesh@vt.edu
+Twitter: @nilesh_nshinde
