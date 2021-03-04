@@ -1,7 +1,7 @@
 ![alt text here](IMG_0682.JPG)
 
 # Nilesh N. Shinde
-## PhD Student, Natural Resources Economics and Environmental Informatics
+## PhD Student, [Natural Resources Economics and Environmental Informatics](https://frec.vt.edu/)*.
 
 ![alt text here](frec.JPG)
 
@@ -68,13 +68,13 @@ _As a Co-author_
 
 ## Contact
 	
- -Virginia Tech 
-	-Department of Forest Resources and Environmental Conservation (FREC)
-	-315B Cheatham Hall, 310 West Campus Drive
-	-Blacksburg, VA 24061
-	-Phone: 540-214-0821
-	-Email: nilesh@vt.edu
- - Twitter: @nilesh_nshinde
+Virginia Tech 
+Department of Forest Resources and Environmental Conservation (FREC)
+315B Cheatham Hall, 310 West Campus Drive
+Blacksburg, VA 24061
+Phone: 540-214-0821
+Email: <nilesh@vt.edu>
+Twitter: @nilesh_nshinde
 
 
 
