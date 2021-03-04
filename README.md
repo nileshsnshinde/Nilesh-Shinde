@@ -79,7 +79,7 @@ Department of Forest Resources and Environmental Conservation (FREC)<br>
 Blacksburg, VA 24061<br>
 Phone: 540-214-0821<br>
 Email: <nilesh@vt.edu><br>
-Twitter: @nilesh_nshinde<br>
+Twitter: <@nilesh_nshinde><br>
 
 
 
