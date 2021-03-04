@@ -1,13 +1,12 @@
 ![alt text here](IMG_0682.JPG)
 
-
 ## PhD Student, Natural Resources Economics and Environmental Informatics, [Department of Forest Resources and Environmental Conservation, Virginia Tech](https://frec.vt.edu/)
 
 ![alt text here](frec.JPG)
 
 ## About me 
 
-The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries, specifically in India andBrazil. 
+I am a Ph.D. student at FREC, Virginia Tech (VA). I am currently working towards a dissertation titled *The natural resource economics and environmental informatics interface in understanding land use and land cover change decisions and policies in India and Brazil*.The main subject matter of this dissertation research is seeking a better understanding of household land-use and land cover choices in developing countries, specifically in India and Brazil. 
 
 In Brazil, I am investigating the relationship between conflicts over land ownershipand deforestation in the face of new environmental legislation in the Amazon region. Thisresearch involves data collection using Web Scraper with Python for land conflicts, remotesensing using Google earth engine and various secondary data sources, and the data analysisis performed using spatial econometric techniques. Chapter (1) employs a Difference-in-Difference (DiD) econometric model with multiple time periods along-with a zero-inflatednegative binomial regression to account for the high number of municipalities with a valueof “zero” for the number of conflicts. We aim to test the CAR as a policy contributes to thereduction of land conflict and deforestation at municipality level. Followed by Chapter (2)which employs combined econometric and machine learning methods in order to estimatethe heterogeneous treatment effects from land use legislation changes and political shiftsacross different groups of landowners(or conditional average treatment effect–CATE).
 
