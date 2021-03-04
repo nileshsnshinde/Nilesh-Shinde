@@ -1,7 +1,7 @@
 ![alt text here](IMG_0682.JPG)
 
 # Nilesh N. Shinde
-## PhD Student, [Natural Resources Economics and Environmental Informatics](https://frec.vt.edu/).
+## PhD Student, Natural Resources Economics and Environmental Informatics, [Department of Forest Resources and Environmental Conservation](https://frec.vt.edu/)
 
 ![alt text here](frec.JPG)
 
