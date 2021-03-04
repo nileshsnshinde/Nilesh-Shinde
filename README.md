@@ -23,21 +23,21 @@ Advisor:  Dr.  Stella Schons
 * Courses: Natural Resources Economics (Fall 2018) and Water Policy and Economics (Fall 2019).
 
 ## Education
-<ul>
-<li> **Ph.D. Virginia Tech, Blacksburg, VA (August 2018 – present)**</li>
-	<ul>
-<li> Forestry with focus on *Natural Resources Economics and Environmental Informatics* </li>
-<li> Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship, the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
-<ul>
-<li> **M.Sc. University of Campinas, São Paulo, Brazil** </li>
-	<ul>
-<li> *Development Economics*</li> 
-<li> Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil.
-<ul>
-<li> **B.E. Savitribai Phule Pune University, Pune, India**</li>
-	<ul>
-<li> *Mechanical Engineering*
-<ul>
+
+**Ph.D. Virginia Tech, Blacksburg, VA (August 2018 – present)**
+
+Forestry with focus on *Natural Resources Economics and Environmental Informatics* 
+Funded by the Institute for Critical Technology and Applied Science (ICTAS) Doctoral fellowship, the William J. Dann Fellowship at Virginia Tech and by the NASA-LCLUC program.
+
+**M.Sc. University of Campinas, São Paulo, Brazil** 
+
+*Development Economics*
+Funded by Central Única dos Trabalhadores (English: Unified Workers’ Central) Brazil.
+
+**B.E. Savitribai Phule Pune University, Pune, India**
+
+*Mechanical Engineering*
+
 	
 ## Techniques & Software
 * Python, R programming, QGIS, Google Earth Engine (JavaScript), Big Query (SQL), STATA and LaTeX. 
