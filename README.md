@@ -44,7 +44,7 @@ Advisor:  Dr.  Stella Schons
 
 ## My research work 
 ### Selected Publications
-_As a First author _ 
+_As a First author_
 
 * Can an environmental policy intervention contribute to the reduction of land conflict?  Evidence from the Rural Environmental Registry (SiCAR) in the Brazilian Amazon, Manuscript in progress. (with Schons, S.Z.) 
 
